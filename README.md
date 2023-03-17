@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+I am passionate about open-source contributions. I believe in the power of collaboration and enjoy working with others. Let's build something great together!
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Abhishek-569&show_icons=true&theme=blue-green&show_owner=true" 
 />
