@@ -23,11 +23,11 @@ I am passionate about open-source contributions. I believe in the power of colla
 
 # 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Day3 of #AOC 2022 in Golang using ChatGPT and Copilot](https://abhishek569.hashnode.dev/day3-of-aoc-2022-in-golang-using-chatgpt-and-copilot)
 - [Day2 of #AOC 2022 in Golang using ChatGPT and Copilot](https://abhishek569.hashnode.dev/day2-of-aoc-2022-in-golang-using-chatgpt-and-copilot)
 - [Day1 of #AOC 2022 in Golang using ChatGPT and Copilot](https://abhishek569.hashnode.dev/day1-of-aoc-2022-in-golang-using-chatgpt-and-copilot)
 - [Day0 of #AOC 2022 in Golang using ChatGPT and Copilot](https://abhishek569.hashnode.dev/day0-of-aoc-2022-in-golang-using-chatgpt-and-copilot)
 - [Creating Your Own Browser Extension: A Beginner&#39;s Guide](https://abhishek569.hashnode.dev/creating-your-own-browser-extension-a-beginners-guide)
-- [Complete Linux Basic Series](https://abhishek569.hashnode.dev/complete-linux-basic-series)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
