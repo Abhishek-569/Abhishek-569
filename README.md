@@ -27,7 +27,7 @@ I am passionate about open-source contributions. I believe in the power of colla
 - [Installing ArgoCD on Minikube](https://abhishek569.hashnode.dev/installing-argocd-on-minikube)
 - [What is Prompt Injection? Why It&#39;s a Real Threat to LLM-Based Applications](https://abhishek569.hashnode.dev/what-is-prompt-injection-why-its-a-real-threat-to-llm-based-applications)
 - [HTML and JavaScript Made Easy: Create an Image Conversion Tool with ChatGPT](https://abhishek569.hashnode.dev/html-and-javascript-made-easy-create-an-image-conversion-tool-with-chatgpt)
-- [Day4 of #AOC 2022 in Golang using ChatGPT and Copilot](https://abhishek569.hashnode.dev/day4-of-aoc-2022-in-golang-using-chatgpt-and-copilot)
+- [Creating Your Own Browser Extension: A Beginner&#39;s Guide](https://abhishek569.hashnode.dev/creating-your-own-browser-extension-a-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
