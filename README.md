@@ -23,7 +23,7 @@ I am passionate about open-source contributions. I believe in the power of colla
 
 # 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to create OpenAPI swagger from postman collection using Postbot AI](https://abhishek569.hashnode.dev/how-to-create-openapi-swagger-from-postman-collection-using-postbot-ai)
+- [How to create OpenAPI swagger using AI](https://abhishek569.hashnode.dev/how-to-create-openapi-swagger-using-ai)
 - [How to create a Helm Chart from Scratch?](https://abhishek569.hashnode.dev/how-to-create-a-helm-chart-from-scratch)
 - [Installing ArgoCD on Minikube](https://abhishek569.hashnode.dev/installing-argocd-on-minikube)
 - [What is Prompt Injection? Why It&#39;s a Real Threat to LLM-Based Applications](https://abhishek569.hashnode.dev/what-is-prompt-injection-why-its-a-real-threat-to-llm-based-applications)
