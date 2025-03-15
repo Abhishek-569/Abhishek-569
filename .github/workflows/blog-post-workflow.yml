@@ -1,17 +1,22 @@
-name: Latest blog post workflow
+name: 'Hashnode Blogs'
+
 on:
- schedule: # Run workflow automatically
-   # This will make it run every hour
-   - cron: '0 * * * *' 
-  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
- workflow_dispatch: 
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs every hour, on the hour.
+
 jobs:
- update-readme-with-blog:
-   name: Update this repo's README with latest blog posts
-   runs-on: ubuntu-latest
-   steps:
-     - uses: actions/checkout@v2
-     - uses: gautamkrishnar/blog-post-workflow@master
-       with:
-         # Replace this URL with your rss feed URL/s
-         feed_list: "https://abhishek569.hashnode.dev/rss.xml"
+  update_blogs:
+    name: 'Hashnode Latest Blogs'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Fetch Repository Contents'
+        uses: actions/checkout@main
+
+      - name: 'Hashnode Blog Action'
+        uses: "Sachin-chaurasiya/hashnode-blog-action@v0.0.8"
+        with:
+          HASHNODE_PUBLICATION_NAME: 'abhishek569.hashnode.dev'
+          FORMAT: 'Stacked'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
